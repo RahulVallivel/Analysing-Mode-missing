@@ -11,4 +11,4 @@ The aim of the project is to find the reasons behind the insatbilites in the tra
 
 Data points are sampled from Mixture of six 2D gaussian distributions.
 
-
+![](https://github.com/RahulVallivel/Analysing-Mode-missing/blob/master/1.png)
