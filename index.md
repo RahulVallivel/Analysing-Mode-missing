@@ -17,3 +17,4 @@ Data points are sampled from Mixture of six 2D gaussian distributions.
 
 Collection of 200,000 celebrity face images.
 
+![](https://github.com/RahulVallivel/Analysing-Mode-missing/blob/master/celebA_sample.jpg)
